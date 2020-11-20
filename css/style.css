@@ -33,17 +33,6 @@ img {
     margin-bottom: 60px;
   }
 
-  #steps .no-float {
-    float: none;
-    margin: 0 auto;
-  }
-
-  #steps .no-float::before {
-    content:'';
-    display: table;
-    clear: both;
-  }
-
 }
 
 .mt-80 {
