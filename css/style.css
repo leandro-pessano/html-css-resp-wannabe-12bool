@@ -50,6 +50,11 @@ img {
   margin-top: 80px;
 }
 
+#steps ,
+#why {
+  background-color: #f9f9f9;
+}
+
 #why .row img {
   background-color: #428bca;
   border-radius: 50%;
